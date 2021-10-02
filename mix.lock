@@ -1,0 +1,3 @@
+%{
+  "pockets": {:hex, :pockets, "1.0.0", "d542e2a1a5a734c1d3b50504beb724f5e69e325429fb5b3ca88d8ec1dddc7705", [:mix], [], "hexpm", "0a221972a7f8e911682b5edf819f0571c4b7cc6fd207aa743278958460b808ad"},
+}
